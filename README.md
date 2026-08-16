@@ -2,7 +2,7 @@
 
 # Hi there, I'm Om Tribhuwan 👋
 
-### 👨‍💻 Computer Science Student | Python & C Developer | Data Science Enthusiast
+### 👨‍💻 AI & Data Science Student | Python & C Developer | Data Science Enthusiast
 
 ---
 
