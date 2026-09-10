@@ -61,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats -->
 
 <!-- <p align="center">
   <img src="https://github-readme-stats.zxq.co/api?username=omi-create&show_icons=true&theme=tokyonight" alt="Om's GitHub Stats" width="48%" />
@@ -85,7 +85,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
+<!-- ### 🏆 GitHub Trophies -->
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=omi-create&theme=dracula&no-frame=true&row=1&column=7" alt="Trophies"/>
