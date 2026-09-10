@@ -64,13 +64,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omi-create&show_icons=true&theme=tokyonight" alt="Om's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omi-create&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.zxq.co/api?username=omi-create&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Om's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.zxq.co/api/top-langs/?username=omi-create&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omi-create&theme=tokyonight" alt="GitHub Streak" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omi-create&theme=tokyo-night" alt="Activity Graph" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omi-create&theme=dracula&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omi-create&theme=dracula&hide_border=true" alt="Activity Graph" width="48%" />
 </p>
 
 ---
